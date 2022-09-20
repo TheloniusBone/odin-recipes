@@ -1,0 +1,25 @@
+* {
+    background-color: rgb(61, 61, 61);
+    color: rgb(24, 201, 24);
+}
+
+.header {
+    font-family: "Arial", 'Courier New', monospace;
+    text-align: center;
+    font-weight: 900;
+}
+
+.chefpic {
+    height: auto;
+    width: 300px;
+}
+
+#chef {
+    text-align: center;
+}
+
+p {
+    font-family: "Times New Roman", "Helvetica", fantasy;
+    font-weight: 300;
+    text-align: center;
+}
